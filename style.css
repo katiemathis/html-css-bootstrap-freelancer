@@ -5,3 +5,8 @@
 .ms_bg_green {
     background-color: #21B18A;
 }
+
+.ms_bg_footer_light {
+    background-color: #2d425a;
+    min-height: 100px;
+}
