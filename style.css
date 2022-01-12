@@ -19,10 +19,16 @@
 
 }
 
+.ms_white_space {
+    width: 100%;
+    background-color: white;
+    min-height: 20px;
+}
+
 
 .ms_linea_bianca {
     height: 5px;
-    width: 200px;
+    width: 20%;
     background-color: white;
     border-radius: 3px;
     display: inline-block;
@@ -30,7 +36,7 @@
 
 .ms_linea_nera {
     height: 5px;
-    width: 200px;
+    width: 20%;
     background-color: #222e3e;
     border-radius: 3px;
     display: inline-block;
@@ -40,4 +46,8 @@
     width: 80%;
     margin: auto;
 
+}
+
+.ms_white_border {
+    border: white;
 }
