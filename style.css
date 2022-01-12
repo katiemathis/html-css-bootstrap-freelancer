@@ -11,6 +11,14 @@
     min-height: 100px;
 }
 
+.ms_col_flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
 
 .ms_linea_bianca {
     height: 5px;
@@ -18,4 +26,18 @@
     background-color: white;
     border-radius: 3px;
     display: inline-block;
+}
+
+.ms_linea_nera {
+    height: 5px;
+    width: 200px;
+    background-color: #222e3e;
+    border-radius: 3px;
+    display: inline-block;
+}
+
+.ms_wrapper_80 {
+    width: 80%;
+    margin: auto;
+
 }
